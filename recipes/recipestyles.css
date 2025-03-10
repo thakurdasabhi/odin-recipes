@@ -1,0 +1,28 @@
+body {
+    background-color: lightgreen;
+}
+
+h1 {
+    font-size: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-transform: capitalize;
+}
+
+h2 {
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    text-transform: capitalize;
+}
